@@ -1,0 +1,27 @@
+
+/* Itens loja */
+
+.container{
+  padding: 2rem;
+}
+.card{
+  margin-bottom: 2rem;
+}
+.texto-navbar{
+  color: #FFF;
+}
+/* Dados pessoais */
+.dados-pessoais{
+  padding: 3rem;
+}
+
+/* Contato */
+.contato{
+  padding: 5rem;
+}
+.input-contato{
+  margin-bottom: 2rem;
+}
+.input-mensagem{
+  padding-bottom: 4rem;
+}
